@@ -34,3 +34,8 @@
 .vs/DXGameDemo/v15/Browse.VC.db
 *.ipch
 *.opendb
+*.log
+*.tlog
+*.idb
+*.pdb
+Debug/DXGameDemo.ilk
